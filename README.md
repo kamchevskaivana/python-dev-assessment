@@ -12,26 +12,26 @@ Python development project demonstating Git,OOP,data structures,error handling a
 -formated code with Blake and Flake8
 
 ###Task 2:Data structures & algoritms and OOP
-File:dsa_challenges.py
+####File:dsa_challenges.py
 -filter_and_sort_evens()-returns sorted numbers from a list
 -count_character_frequency()-counts how many times each character appears
 
-File:book_store.py
+####File:book_store.py
 -Book-class with attributes:title,author,isbn,publication_year
 -get_age()-returns book age
 -get_summary()-returns formated book information
 
 ###Task 3:Error Handling
-File:debug_errors.py
+####File:debug_errors.py
 -calculate_average()-calculates list average and handles empty list
 -get_list_element()-retrieves list element and handles out of bounds
 
 ###Task 4:API integration
-File:api_client.py
+####File:api_client.py
 -fetch_and_display_users()-fetches user data from JSONPlaceholder API
 
 ##Install Requirement
-pip install requests black flake8
+`pip install requests black flake8`
 
 ##How to Run Tasks
 python dsa_challenges.py
