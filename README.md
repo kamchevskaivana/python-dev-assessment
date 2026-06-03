@@ -5,8 +5,7 @@ This repository is for my developer assessment tasks.
 
 ##Overview
 Python development project demonstating Git,OOP,data structures,error handling and API integration
-
-
+<br>
 
 ##What is includes
 
@@ -16,7 +15,7 @@ Python development project demonstating Git,OOP,data structures,error handling a
 
 -formated code with Blake and Flake8
 
-
+<br>
 
 ###Task 2:Data structures & algoritms and OOP
 
@@ -33,7 +32,7 @@ Python development project demonstating Git,OOP,data structures,error handling a
 -get_age()-returns book age
 
 -get_summary()-returns formated book information
-
+<br>
 
 
 ###Task 3:Error Handling
@@ -44,14 +43,14 @@ Python development project demonstating Git,OOP,data structures,error handling a
 
 -get_list_element()-retrieves list element and handles out of bounds
 
-
+<br>
 
 ###Task 4:API integration
 
 ####File:api_client.py
 
 -fetch_and_display_users()-fetches user data from JSONPlaceholder API
-
+<br>
 
 
 ##Install Requirement
@@ -70,14 +69,14 @@ python debug_errors.py
 
 python api_client.py
 
-
+<br>
 
 Most challenging:Error handling 
 
 Most Interesting:Fetching real data from API 
 
 Key Takeway:writing clean, well formated code is important
-
+<br>
 
 Author:Ivana Kamchevska
 
