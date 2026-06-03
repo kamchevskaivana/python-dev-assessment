@@ -7,7 +7,7 @@ This repository is for my developer assessment tasks.
 Python development project demonstating Git,OOP,data structures,error handling and API integration
 <br>
 
-##What is includes
+
 
 ###Task 1:Git and Code quality
 
