@@ -7,13 +7,19 @@ This repository is for my developer assessment tasks.
 Python development project demonstating Git,OOP,data structures,error handling and API integration
 
 ##What is includes
+
 ###Task 1:Git and Code quality
+
 -set up Git repository and Github workflow
+
 -formated code with Blake and Flake8
 
 ###Task 2:Data structures & algoritms and OOP
+
 ####File:dsa_challenges.py
+
 -filter_and_sort_evens()-returns sorted numbers from a list
+
 -count_character_frequency()-counts how many times each character appears
 
 ####File:book_store.py
